@@ -1,0 +1,10 @@
+##ignore this file##
+.idea
+/ht/config.json
+config.json
+node_modules/
+ht/node_modules/
+qt/node_modules/
+node_modules/*
+ht/node_modules/*
+qt/node_modules/*
